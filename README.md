@@ -1,6 +1,10 @@
 # Django-restapi
 
+# Run api
 
+`$ python manage.py runserver`
+
+Now go to [localhost:8000][http://localhost:8000]
 
 
 # Reference:
