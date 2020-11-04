@@ -4,7 +4,7 @@
 
 `$ python manage.py runserver`
 
-Now go to [localhost:8000][http://localhost:8000]
+Now go to <http://localhost:8000>
 
 
 # Reference:
